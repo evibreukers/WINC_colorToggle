@@ -17,7 +17,7 @@ By clicking on the buttons of the toggle menu or pressing keys (1 to 6) the back
 
 ## 🚀 Preview
 
-For a preview screen..see images in 'preview' folder
+https://evibreukers.github.io/colorToggle/
 
 ENJOY!
 
