@@ -4,8 +4,12 @@ Winc Academy's 1st project of the Front-end Development traineeship
 
 ## 💬 Project Goal
 
-The goal was making a toggle menu using JavaScript. 
+The goal of this project is making a toggle menu using JavaScript. 
 By clicking on the buttons of the toggle menu or pressing keys (1 to 6) the background-color will change. 
+
+## 💬 Tools 
+
+CSS, HTML, JavaScript
 
 ## 💬 Requirements
 
