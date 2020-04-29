@@ -21,7 +21,7 @@ CSS, HTML, JavaScript
 
 ## 🚀 Preview
 
-https://evibreukers.github.io/colorToggle/
+https://colortoggle.netlify.app
 
 ENJOY!
 
