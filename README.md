@@ -23,6 +23,9 @@ CSS, HTML, JavaScript
 
 https://colortoggle.netlify.app
 
+![alt text](preview1.png)
+![alt text](preview2.png)
+
 ENJOY!
 
 
